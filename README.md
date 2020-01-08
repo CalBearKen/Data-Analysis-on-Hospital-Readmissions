@@ -1,2 +1,3 @@
 # Data-Analysis-on-Hospital-Readmissions
-To critique a preliminary analysis of data and recommendations for reducing hospital readmissions rates and construct a statistically sound analysis to make recommendations
+In October 2012, CMS began reducing Medicare payments for Inpatient Prospective Payment System hospitals with excess readmissions.
+This project aims to use a sample of the data collected and extract insights on hospital readmissions.
